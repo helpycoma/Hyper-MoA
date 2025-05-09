@@ -16,15 +16,15 @@ table {
     margin: 0px 0px 0px 50px;
 }
 
-tr, td, th{
+tr, td, th {
     border: 1px solid black;
     padding: 10px 5px 10px 5px;
-    text-align: center
+    text-align: center;
 }
 
-th{
+th {
     border: 1px solid black;
     padding: 20px 10px 20px 10px;
     text-align: center;
-    background-color:rgb(187, 187, 187);
+    background-color: rgb(187, 187, 187);
 }
