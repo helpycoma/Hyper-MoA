@@ -34,4 +34,5 @@ th {
     padding: 20px 10px 20px 10px;
     text-align: center;
     background-color: rgb(187, 187, 187);
+    white-space: nowrap;
 }
